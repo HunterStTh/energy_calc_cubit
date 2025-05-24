@@ -1,13 +1,10 @@
-# Игнорировать всё
-*
+# Ignore everything
+/*
 
-# Разрешить папки с содержимым
-!lib/**
-!assets/**
-!src/**
+# Except these folders
+!/src
+!/asset
+!/lib
 
-# Разрешить обязательные файлы
+# Also include .gitignore itself if you want it in the repo
 !.gitignore
-!pubspec.yaml
-!pubspec.lock
-!README.md
