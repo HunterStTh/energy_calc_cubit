@@ -1,0 +1,14 @@
+# Игнорировать всё по умолчанию
+*
+
+# Исключить нужные директории
+!/lib/
+!/assets/
+!/src/
+
+# Исключить обязательные файлы Flutter
+!pubspec.yaml
+!pubspec.lock
+!README.md
+!.gitignore
+!.metadata
