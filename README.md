@@ -1,0 +1,1 @@
+Calculate for Kinetik Power
